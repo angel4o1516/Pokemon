@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="first .cs">
+    <Compile Include="first.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="first .Designer.cs">
-      <DependentUpon>first .cs</DependentUpon>
+    <Compile Include="first.Designer.cs">
+      <DependentUpon>first.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -60,8 +60,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="first .resx">
-      <DependentUpon>first .cs</DependentUpon>
+    <EmbeddedResource Include="first.resx">
+      <DependentUpon>first.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -94,6 +94,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\eevee-169.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f3e385b20a9d2b4fad4483fe34863972.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eevee-dance.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jlee_240108_1001_pogo_shiny_eevee%283%29.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

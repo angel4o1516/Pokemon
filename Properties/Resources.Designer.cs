@@ -79,5 +79,35 @@ namespace nesto.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap eevee_dance {
+            get {
+                object obj = ResourceManager.GetObject("eevee-dance", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap f3e385b20a9d2b4fad4483fe34863972 {
+            get {
+                object obj = ResourceManager.GetObject("f3e385b20a9d2b4fad4483fe34863972", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap jlee_240108_1001_pogo_shiny_eevee_3_ {
+            get {
+                object obj = ResourceManager.GetObject("jlee_240108_1001_pogo_shiny_eevee(3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

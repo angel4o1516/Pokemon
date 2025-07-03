@@ -10,19 +10,29 @@ using System.Windows.Forms;
 
 namespace nesto
 {
-    public partial class battle : Form
+    public partial class first : Form
     {
-        public battle()
+        public first()
         {
-            
+            InitializeComponent();
         }
-       
-        private void label2_Click(object sender, EventArgs e)
+
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }
 
         private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
         {
 
         }

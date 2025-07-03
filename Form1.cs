@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.ExceptionServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -25,9 +26,9 @@ namespace nesto
 
         private void button1_Click(object sender, EventArgs e)
         {
-            battle battleForm = new battle();  
-            battleForm.Show();
-            this.Hide();
+            Hide();
+            first first = new first();
+            first.Show();
         }
 
         private void label2_Click(object sender, EventArgs e)
