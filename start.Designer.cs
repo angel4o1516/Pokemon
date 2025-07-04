@@ -1,6 +1,6 @@
 ﻿namespace nesto
 {
-    partial class Form1
+    partial class start
     {
         /// <summary>
         /// Required designer variable.
@@ -39,11 +39,11 @@
             this.label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 19F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.ForeColor = System.Drawing.Color.Transparent;
-            this.label2.Location = new System.Drawing.Point(573, 86);
+            this.label2.Location = new System.Drawing.Point(626, 93);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(237, 37);
+            this.label2.Size = new System.Drawing.Size(220, 37);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Pokemon quize";
+            this.label2.Text = "Pokemon quiz";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
@@ -51,17 +51,17 @@
             // 
             this.button1.BackColor = System.Drawing.Color.Transparent;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button1.ForeColor = System.Drawing.Color.Transparent;
-            this.button1.Location = new System.Drawing.Point(628, 333);
+            this.button1.Location = new System.Drawing.Point(664, 351);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(117, 56);
+            this.button1.Size = new System.Drawing.Size(127, 70);
             this.button1.TabIndex = 3;
-            this.button1.Text = "`";
+            this.button1.Text = "Start";
             this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
-            // Form1
+            // start
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -70,7 +70,7 @@
             this.ClientSize = new System.Drawing.Size(1491, 732);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label2);
-            this.Name = "Form1";
+            this.Name = "start";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);

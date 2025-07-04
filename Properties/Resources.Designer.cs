@@ -63,6 +63,26 @@ namespace nesto.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _0c26fcc2a6cb34b9df6ea4a21f1f3b52 {
+            get {
+                object obj = ResourceManager.GetObject("0c26fcc2a6cb34b9df6ea4a21f1f3b52", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1085081_final {
+            get {
+                object obj = ResourceManager.GetObject("1085081-final", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _1085092_final {
             get {
                 object obj = ResourceManager.GetObject("1085092-final", resourceCulture);
@@ -106,6 +126,36 @@ namespace nesto.Properties {
         internal static System.Drawing.Bitmap jlee_240108_1001_pogo_shiny_eevee_3_ {
             get {
                 object obj = ResourceManager.GetObject("jlee_240108_1001_pogo_shiny_eevee(3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ljrxh5lcesa51 {
+            get {
+                object obj = ResourceManager.GetObject("ljrxh5lcesa51", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pokemon_memes_pepe_rayquaza {
+            get {
+                object obj = ResourceManager.GetObject("pokemon-memes-pepe-rayquaza", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap wp8424498_pokemon_shiny_charizard_wallpapers {
+            get {
+                object obj = ResourceManager.GetObject("wp8424498-pokemon-shiny-charizard-wallpapers", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
