@@ -49,5 +49,10 @@ namespace nesto
             Fourth fourth = new Fourth();
             fourth.Show();
         }
+
+        private void third_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

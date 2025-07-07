@@ -123,6 +123,36 @@ namespace nesto.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ghost_pokemon_1095_x_685_ft44vuj9knj50g8x {
+            get {
+                object obj = ResourceManager.GetObject("ghost-pokemon-1095-x-685-ft44vuj9knj50g8x", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images__1_ {
+            get {
+                object obj = ResourceManager.GetObject("images (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images__2_ {
+            get {
+                object obj = ResourceManager.GetObject("images (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap jlee_240108_1001_pogo_shiny_eevee_3_ {
             get {
                 object obj = ResourceManager.GetObject("jlee_240108_1001_pogo_shiny_eevee(3)", resourceCulture);
@@ -143,9 +173,39 @@ namespace nesto.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pokemon_greninja_pokemon_hd_wallpaper_preview {
+            get {
+                object obj = ResourceManager.GetObject("pokemon-greninja-pokemon-hd-wallpaper-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pokemon_memes_pepe_rayquaza {
             get {
                 object obj = ResourceManager.GetObject("pokemon-memes-pepe-rayquaza", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap rhyperior_evolution_eyqlpq9oxps1ogxt {
+            get {
+                object obj = ResourceManager.GetObject("rhyperior-evolution-eyqlpq9oxps1ogxt", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap rhyperior_in_the_sky_j6aj7kabq9fxb8t0 {
+            get {
+                object obj = ResourceManager.GetObject("rhyperior-in-the-sky-j6aj7kabq9fxb8t0", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

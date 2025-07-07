@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="eighth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eighth.Designer.cs">
+      <DependentUpon>eighth.cs</DependentUpon>
+    </Compile>
     <Compile Include="Fifth.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,11 +76,29 @@
     <Compile Include="gorewach.Designer.cs">
       <DependentUpon>gorewach.cs</DependentUpon>
     </Compile>
+    <Compile Include="ninth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ninth.Designer.cs">
+      <DependentUpon>ninth.cs</DependentUpon>
+    </Compile>
     <Compile Include="second.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="second.Designer.cs">
       <DependentUpon>second.cs</DependentUpon>
+    </Compile>
+    <Compile Include="seventh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="seventh.Designer.cs">
+      <DependentUpon>seventh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sixth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sixth.Designer.cs">
+      <DependentUpon>sixth.cs</DependentUpon>
     </Compile>
     <Compile Include="start.cs">
       <SubType>Form</SubType>
@@ -90,6 +114,9 @@
     <Compile Include="third.Designer.cs">
       <DependentUpon>third.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="eighth.resx">
+      <DependentUpon>eighth.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Fifth.resx">
       <DependentUpon>Fifth.cs</DependentUpon>
     </EmbeddedResource>
@@ -104,6 +131,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="second.resx">
       <DependentUpon>second.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="seventh.resx">
+      <DependentUpon>seventh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sixth.resx">
+      <DependentUpon>sixth.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="start.resx">
       <DependentUpon>start.cs</DependentUpon>
@@ -160,6 +193,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\1085081-final.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ghost-pokemon-1095-x-685-ft44vuj9knj50g8x.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rhyperior-evolution-eyqlpq9oxps1ogxt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rhyperior-in-the-sky-j6aj7kabq9fxb8t0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pokemon-greninja-pokemon-hd-wallpaper-preview.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace nesto
 {
-    public partial class second : Form
+    public partial class sixth : Form
     {
-        public second()
+        public sixth()
         {
             InitializeComponent();
+        }
+
+        private void sixth_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -34,8 +44,8 @@ namespace nesto
         private void button3_Click(object sender, EventArgs e)
         {
             Hide();
-            third third = new third();
-            third.Show();
+           seventh seventh = new seventh();
+             seventh.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -43,11 +53,6 @@ namespace nesto
             Hide();
             gorewach gorewach = new gorewach();
             gorewach.Show();
-        }
-
-        private void second_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

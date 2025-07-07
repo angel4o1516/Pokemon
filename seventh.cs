@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace nesto
 {
-    public partial class second : Form
+    public partial class seventh : Form
     {
-        public second()
+        public seventh()
         {
             InitializeComponent();
         }
@@ -22,20 +22,22 @@ namespace nesto
             Hide();
             gorewach gorewach = new gorewach();
             gorewach.Show();
+
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             Hide();
-            gorewach gorewach = new gorewach();
-            gorewach.Show();
+            eighth eighth = new eighth();
+            eighth.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             Hide();
-            third third = new third();
-            third.Show();
+            gorewach gorewach = new gorewach();
+            gorewach.Show();
+
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -43,10 +45,6 @@ namespace nesto
             Hide();
             gorewach gorewach = new gorewach();
             gorewach.Show();
-        }
-
-        private void second_Load(object sender, EventArgs e)
-        {
 
         }
     }
