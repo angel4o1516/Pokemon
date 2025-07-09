@@ -113,6 +113,16 @@ namespace nesto.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap EhOWY95U8AAJ8Mw {
+            get {
+                object obj = ResourceManager.GetObject("EhOWY95U8AAJ8Mw", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap f3e385b20a9d2b4fad4483fe34863972 {
             get {
                 object obj = ResourceManager.GetObject("f3e385b20a9d2b4fad4483fe34863972", resourceCulture);
@@ -166,6 +176,26 @@ namespace nesto.Properties {
         internal static System.Drawing.Bitmap ljrxh5lcesa51 {
             get {
                 object obj = ResourceManager.GetObject("ljrxh5lcesa51", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap maxresdefault {
+            get {
+                object obj = ResourceManager.GetObject("maxresdefault", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap maxresdefault1 {
+            get {
+                object obj = ResourceManager.GetObject("maxresdefault1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
