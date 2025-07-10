@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -11,9 +10,9 @@ using System.Windows.Forms;
 
 namespace nesto
 {
-    public partial class ten : Form
+    public partial class fourteen : Form
     {
-        public ten()
+        public fourteen()
         {
             InitializeComponent();
         }
@@ -21,15 +20,15 @@ namespace nesto
         private void button1_Click(object sender, EventArgs e)
         {
             Hide();
-            gorewach gorewach = new gorewach();
-            gorewach.Show();
+            Final final = new Final();
+            final.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             Hide();
-            eleven eleven = new eleven();
-            eleven.Show();
+            gorewach gorewach = new gorewach();
+            gorewach.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)

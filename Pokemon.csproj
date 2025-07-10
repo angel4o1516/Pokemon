@@ -52,17 +52,35 @@
     <Compile Include="eighth.Designer.cs">
       <DependentUpon>eighth.cs</DependentUpon>
     </Compile>
+    <Compile Include="eleven.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eleven.Designer.cs">
+      <DependentUpon>eleven.cs</DependentUpon>
+    </Compile>
     <Compile Include="Fifth.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Fifth.Designer.cs">
       <DependentUpon>Fifth.cs</DependentUpon>
     </Compile>
+    <Compile Include="Final.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Final.Designer.cs">
+      <DependentUpon>Final.cs</DependentUpon>
+    </Compile>
     <Compile Include="first.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="first.Designer.cs">
       <DependentUpon>first.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fourteen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fourteen.Designer.cs">
+      <DependentUpon>fourteen.cs</DependentUpon>
     </Compile>
     <Compile Include="Fourth.cs">
       <SubType>Form</SubType>
@@ -120,14 +138,35 @@
     <Compile Include="third.Designer.cs">
       <DependentUpon>third.cs</DependentUpon>
     </Compile>
+    <Compile Include="thirteen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thirteen.Designer.cs">
+      <DependentUpon>thirteen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="twelve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="twelve.Designer.cs">
+      <DependentUpon>twelve.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="eighth.resx">
       <DependentUpon>eighth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eleven.resx">
+      <DependentUpon>eleven.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Fifth.resx">
       <DependentUpon>Fifth.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Final.resx">
+      <DependentUpon>Final.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="first.resx">
       <DependentUpon>first.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fourteen.resx">
+      <DependentUpon>fourteen.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Fourth.resx">
       <DependentUpon>Fourth.cs</DependentUpon>
@@ -165,6 +204,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="third.resx">
       <DependentUpon>third.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thirteen.resx">
+      <DependentUpon>thirteen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="twelve.resx">
+      <DependentUpon>twelve.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -230,6 +275,36 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\maxresdefault1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4b1cfd87c2ea103f308b4d7958487e7d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4b1cfd87c2ea103f308b4d7958487e7d1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wp2170349%281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\38541.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ishmam-pokemon-giratina-hd-wallpaper-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\solgaleo-1024x580.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ntFWbT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CKuAe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ntFWbT1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HD-wallpaper-lugia-fantasy-original-anime-pokemon-legendary-pokemon-dragon.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

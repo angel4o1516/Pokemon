@@ -93,6 +93,46 @@ namespace nesto.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _38541 {
+            get {
+                object obj = ResourceManager.GetObject("38541", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _4b1cfd87c2ea103f308b4d7958487e7d {
+            get {
+                object obj = ResourceManager.GetObject("4b1cfd87c2ea103f308b4d7958487e7d", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _4b1cfd87c2ea103f308b4d7958487e7d1 {
+            get {
+                object obj = ResourceManager.GetObject("4b1cfd87c2ea103f308b4d7958487e7d1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap CKuAe1 {
+            get {
+                object obj = ResourceManager.GetObject("CKuAe1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap eevee_169 {
             get {
                 object obj = ResourceManager.GetObject("eevee-169", resourceCulture);
@@ -143,6 +183,16 @@ namespace nesto.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap HD_wallpaper_lugia_fantasy_original_anime_pokemon_legendary_pokemon_dragon {
+            get {
+                object obj = ResourceManager.GetObject("HD-wallpaper-lugia-fantasy-original-anime-pokemon-legendary-pokemon-dragon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap images__1_ {
             get {
                 object obj = ResourceManager.GetObject("images (1)", resourceCulture);
@@ -156,6 +206,16 @@ namespace nesto.Properties {
         internal static System.Drawing.Bitmap images__2_ {
             get {
                 object obj = ResourceManager.GetObject("images (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ishmam_pokemon_giratina_hd_wallpaper_preview {
+            get {
+                object obj = ResourceManager.GetObject("ishmam-pokemon-giratina-hd-wallpaper-preview", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -203,6 +263,26 @@ namespace nesto.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ntFWbT {
+            get {
+                object obj = ResourceManager.GetObject("ntFWbT", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ntFWbT1 {
+            get {
+                object obj = ResourceManager.GetObject("ntFWbT1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pokemon_greninja_pokemon_hd_wallpaper_preview {
             get {
                 object obj = ResourceManager.GetObject("pokemon-greninja-pokemon-hd-wallpaper-preview", resourceCulture);
@@ -236,6 +316,26 @@ namespace nesto.Properties {
         internal static System.Drawing.Bitmap rhyperior_in_the_sky_j6aj7kabq9fxb8t0 {
             get {
                 object obj = ResourceManager.GetObject("rhyperior-in-the-sky-j6aj7kabq9fxb8t0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap solgaleo_1024x580 {
+            get {
+                object obj = ResourceManager.GetObject("solgaleo-1024x580", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap wp2170349_1_ {
+            get {
+                object obj = ResourceManager.GetObject("wp2170349(1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
